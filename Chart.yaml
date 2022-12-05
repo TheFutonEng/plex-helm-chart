@@ -13,12 +13,11 @@ keywords:
   - tv
 sources:
   - https://github.com/linuxserver/docker-plex
-  - https://github.com/utkuozdemir/helm-charts
-icon: https://utkuozdemir.org/helm-charts/plex.png
+  - https://github.com/thefutoneng/plex-helm-chart
+icon: https://www.plex.tv/wp-content/themes/plex/assets/img/plex-logo.svg
 maintainers:
-  - name: Utku Özdemir
-    email: uoz@protonmail.com
-    url: https://utkuozdemir.org
+  - name: Rob Mengert
+    email: thefutoneng@gmail.com
 annotations:
   artifacthub.io/license: MIT
   artifacthub.io/changes: |
