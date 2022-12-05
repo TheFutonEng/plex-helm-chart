@@ -1,6 +1,6 @@
 # plex - ⚠️ THIS CHART IS UNDER CONSTRUCTION
 
-This chart has been copied from utkuozdemir and will be maintained here going forward.  The chart from utkuozdemir was deprecated and pointed to the chart from [k8s-at-home](https://github.com/k8s-at-home/charts/tree/master/charts/stable/plex) which was also deprecated. Moving forward, the chart will leverage the [plexinc/pms-docker](https://hub.docker.com/r/plexinc/pms-docker/) official container (source [here](https://github.com/plexinc/pms-docker)).
+This chart has been copied from [utkuozdemir](https://github.com/utkuozdemir/helm-charts) and will be maintained here going forward.  The chart from utkuozdemir was deprecated and pointed to the chart from [k8s-at-home](https://github.com/k8s-at-home/charts/tree/master/charts/stable/plex) which was also deprecated. Moving forward, the chart will leverage the [plexinc/pms-docker](https://hub.docker.com/r/plexinc/pms-docker/) official container (source [here](https://github.com/plexinc/pms-docker)).
 
 ![Version: 2.1.1](https://img.shields.io/badge/Version-2.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.25.2](https://img.shields.io/badge/AppVersion-1.25.2-informational?style=flat-square)
 
