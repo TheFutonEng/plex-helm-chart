@@ -2,8 +2,8 @@ apiVersion: v2
 name: plex
 description: Plex Media Server Helm chart
 type: application
-version: 2.1.1
-appVersion: 1.25.2
+version: 1.0.0
+appVersion: 1.29.2.6364-6d72b0cf6
 home: https://www.plex.tv
 keywords:
   - plex
@@ -24,4 +24,4 @@ annotations:
     - Disable NET_ADMIN capability
   artifacthub.io/images: |
     - name: linuxserver/plex
-      image: docker.io/linuxserver/plex:1.25.2
+      image: docker.io/plexinc/pms-docker

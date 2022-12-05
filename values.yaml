@@ -46,7 +46,7 @@ additionalServicePorts: []
 
 image:
   # -- Image repository
-  repository: docker.io/linuxserver/plex
+  repository: plexinc/pms-docker
   # -- Image pull policy
   pullPolicy: IfNotPresent
   # -- Image tag (if not specified, defaults to the chart's appVersion)
